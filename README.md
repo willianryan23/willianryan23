@@ -35,7 +35,6 @@ Me chamo **Willian Ryan do Rêgo Bemfica**
 ![SQLyog](https://img.shields.io/badge/SQLyog-4D9BE6?style=for-the-badge&logo=database&logoColor=white)
 ![MySQL Work](https://img.shields.io/badge/MySQL_Work-00618A?style=for-the-badge&logo=mysql&logoColor=white)
 
-*(Nota: SQLyog e MySQL Workbench usam badges genéricos por falta de logos oficiais.)*
 
 ---
 
